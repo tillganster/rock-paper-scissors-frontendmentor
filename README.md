@@ -22,15 +22,14 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/tillganster/pricing-component-with-toggle-master)
+- Live Site URL: [Add live site URL here](https://tillganster.github.io/pricing-component-with-toggle-master/)
 
 # Built with
 
 - HTML5 Markup
 - CSS
 - Typescript
-- [rsbuild](https://rsbuild.dev)
 - [Solid.js](https://www.solidjs.com) - JS library
 - [tailwindcss v4.0](https://tailwindcss.com) - For styles
 
