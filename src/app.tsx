@@ -9,6 +9,7 @@ import RulesButton from "~/components/Rules.button";
 export default function App() {
   return (
     <Router
+      base={import.meta.env.SERVER_BASE_URL}
       root={(props) => (
         <>
           <main
